@@ -1,0 +1,71 @@
+/* ===============================================================================
+Header
+=============================================================================== */
+/* ===============================================================================
+Footer
+=============================================================================== */
+/* ===============================================================================
+Contents
+=============================================================================== */
+#contents-area {
+  width: 1200px;
+  margin: 0 auto;
+  padding: 60px 0;
+}
+
+#contents-area .contents-area__head {
+  padding-bottom: 20px;
+  border-bottom: solid 1px #ccc;
+}
+
+#contents-area .contents-area__head .blocks-01 {
+  margin-bottom: 30px;
+}
+
+#contents-area .contents-area__head .blocks-01 .heading {
+  font-size: 1.875rem;
+}
+
+#contents-area .contents-area__head .blocks-02 {
+  background: #efefef;
+  padding: 30px;
+  margin-bottom: 30px;
+}
+
+#contents-area .contents-area__head .blocks-02 .text {
+  font-size: 1.25rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+#contents-area .contents-area__head .blocks-02 .text span {
+  margin-left: 20px;
+  font-size: 0.875rem;
+  display: inline-block;
+  padding: 3px 10px;
+  font-weight: normal;
+  background: #ccc;
+  border-radius: 5px;
+}
+
+#contents-area .contents-area__head .blocks-02 .check-list__item {
+  display: inline-block;
+}
+
+#contents-area .contents-area__head .blocks-02 .check-list__item:not(:last-child) {
+  margin-right: 20px;
+}
+
+#contents-area .contents-area__head .blocks-03 .btns {
+  text-align: right;
+  font-size: 0;
+}
+
+#contents-area .contents-area__head .blocks-03 .btns p {
+  display: inline-block;
+  font-size: 0.875rem;
+}
+
+#contents-area .contents-area__head .blocks-03 .btns p:not(:last-child) {
+  margin-right: 20px;
+}
